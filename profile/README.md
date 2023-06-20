@@ -1,6 +1,6 @@
-# Cloudsdale Radio
+# Sora Media Network Inc.
 
-Cloudsdale Radio is a web-radio broadcasting group owned by Stellar Corporation. Our aim is to provide high-quality audio content to our listeners and create a platform for music enthusiasts to showcase their talent. We currently operate two web-radios - Cloudsdale Radio, a brony web-radio, and AnimeFM, a web-radio that broadcasts Anime music, fan-made content, and Japanese music from all genres.
+Sora Media Network Inc. is a web-radio broadcasting group owned by Stellar Corporation. Our aim is to provide high-quality audio content to our listeners and create a platform for music enthusiasts to showcase their talent. We currently operate two web-radios - Sora Media Network Inc., a brony web-radio, and AnimeFM, a web-radio that broadcasts Anime music, fan-made content, and Japanese music from all genres.
 
 ## Our Stations
 
